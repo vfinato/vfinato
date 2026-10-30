@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tecnologia Única, my current team works on Reward Programs<br>🌱 I’m currently learning Next.js to improve my side softwares as I am a C# maniac.<br>⚡ Fun fact, my first software was developed in Delphi 7!
+🔭 I’m currently working on 12twenty<br>🌱 I’m currently learning Next.js to improve my side softwares as I am a C# maniac.<br>⚡ Fun fact, my first software was developed in Delphi 7!
 
 
 ## 🌐 Socials:
